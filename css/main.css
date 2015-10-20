@@ -1,4 +1,27 @@
 /* You'll probably want to add some styles here */
-#container {
+/*body {
+	background-color: #CC9966;
+}
+*/
+
+h1 {
+	text-align: center;
+}
+
+#map {
 	height:800px;
 }
+
+table {
+	padding: 10px;
+}
+
+table, th, tr {
+	width: 100%;
+	padding-left: 5em;
+	padding: 10px;
+}
+th, tr {
+	width: 10px;
+}
+
